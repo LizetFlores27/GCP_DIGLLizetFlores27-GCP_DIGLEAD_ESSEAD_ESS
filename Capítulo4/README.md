@@ -500,4 +500,4 @@ Puntos clave:
 
 Cloud Run es adecuado para organizaciones que desean modernizar aplicaciones y desplegar servicios web sin administrar directamente servidores o sistemas operativos.
 
-### Fin del laboratorio 4
+### Fin del laboratorio 4.

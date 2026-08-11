@@ -1,4 +1,4 @@
-# Laboratorio 03: Analizar riesgo de abandono y simular un agente con Gemini en Google Cloud
+# Laboratorio 03: Analizar riesgo de abandono y simular un agente con Gemini en Google Cloud.
 
 ## Objetivo de la práctica
 
@@ -15,7 +15,7 @@ Al finalizar la práctica, serás capaz de:
 
 ---
 
-## Objetivo visual
+## Objetivo visual.
 
 Representar la evolución desde una interacción generativa hasta una solución agéntica:
 
